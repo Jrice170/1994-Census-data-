@@ -1,0 +1,6 @@
+,date,population-wgt,education-num,capital-gain,capital-loss
+date,,I,I,I,I
+population-wgt,,,I,I,I
+education-num,,,,I,I
+capital-gain,,,,,I
+capital-loss,,,,,

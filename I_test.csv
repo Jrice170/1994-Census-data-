@@ -1,0 +1,11 @@
+,age,workclass,education,marital-status,occupation,relationship,race,sex,hours-per-week,native-country
+age,,N,N,N,N,N,N,N,N,N
+workclass,,,N,N,N,N,N,N,N,N
+education,,,,N,N,N,N,N,N,N
+marital-status,,,,,N,N,N,N,N,N
+occupation,,,,,,N,N,N,N,N
+relationship,,,,,,,N,N,N,N
+race,,,,,,,,N,N,N
+sex,,,,,,,,,N,N
+hours-per-week,,,,,,,,,,N
+native-country,,,,,,,,,,
